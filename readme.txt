@@ -6,7 +6,7 @@ Tested up to: 4.1
 Stable tag: 1.0.0
 License: GPLv2 or later
 
-SagePay Server Gateway for accepting payments on your Easy Digital Downloads Store.
+SagePay Form Gateway for accepting payments on your Easy Digital Downloads Store.
 
 == Description ==
 
